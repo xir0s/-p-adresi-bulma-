@@ -1,12 +1,7 @@
-# -p-adresi-bulma-
-
-
-git remote add origin https://github.com/xir0s/-p-adresi-bulma-.git
+echo "# -p-adresi-bulma-" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
   git branch -M main
+  git remote add origin https://github.com/xir0s/-p-adresi-bulma-.git
   git push -u origin main
-
-
-
-
-
-  https://github.com/xir0s/-p-adresi-bulma-.git
